@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+transformers
+datasets
+tqdm
+scikit-learn
+nltk
+rouge-score
+memory-profiler
+matplotlib
+sacrebleu
